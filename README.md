@@ -1,4 +1,6 @@
 # Tour de France
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpierresebastien%2FTourDeFrance-UI.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpierresebastien%2FTourDeFrance-UI?ref=badge_shield)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
 
@@ -26,3 +28,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpierresebastien%2FTourDeFrance-UI.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpierresebastien%2FTourDeFrance-UI?ref=badge_large)
